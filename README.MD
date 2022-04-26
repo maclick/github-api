@@ -1,6 +1,8 @@
 
 # Github api
 
+My email in recruitment process: ```macius.bielik@gmail.com```
+
 W swoim rozwiązaniu korzystam z bibliotek pythona:
  - requests
  - json
