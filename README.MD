@@ -29,5 +29,5 @@ Sposób użycia:
 ```
 127.0.0.1:8000/check_user?username=allegro
 ```
-	-  (wartość allegro zamieniamy na username dowolnego użytkownika, którego chcemy sprawdzić)
+-  (wartość allegro zamieniamy na username dowolnego użytkownika, którego chcemy sprawdzić)
 
