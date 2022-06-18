@@ -1,8 +1,6 @@
 
 # Github api
 
-My email in recruitment process: ```macius.bielik@gmail.com```
-
 W swoim rozwiązaniu korzystam z bibliotek pythona:
  - requests
  - json
@@ -27,7 +25,7 @@ Sposób użycia:
  - aby sprawdzić użytkownika należy przejść pod zwrócony adres
    i podstrony:
 ```
-127.0.0.1:8000/check_user?username=allegro
+127.0.0.1:8000/check_user?username=maclick
 ```
--  (wartość allegro zamieniamy na username dowolnego użytkownika, którego chcemy sprawdzić)
+-  (wartość maclick zamieniamy na username dowolnego użytkownika, którego chcemy sprawdzić)
 
